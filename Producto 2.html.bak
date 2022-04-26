@@ -1,0 +1,64 @@
+<html> 
+<head>
+<title>OXXO</title>
+<link rel="shorcut icon" href="logo2.png">
+<link rel="stylesheet" href="estilo.css">
+
+</head>
+<body>
+<a href="OXXO.html">
+	<img src=logo.png width="250" heigth="200">
+</a>
+<center>
+<div class="div1">
+	<h1>
+Productos
+	</h1>
+</div>
+</center>
+<hr>
+<br>
+<center>
+<div class="div-productos3">
+<table class="tableps">
+	<tr>
+		<td><img class="imgps2" src=gansito3.jpg></td>
+
+		<td><img class="imgp1" src=gansito1.jpg></td>
+
+		<td><img class="imgps2" src=gansito2.png ></td>
+
+		<td><img class="imgps2" src=gansito4.jpg></td>
+	</tr>
+</table>
+</div>
+</center>
+<br>
+<br>
+<br>
+<table class="sin">
+	<tr>
+		<th><A href="OXXO.html"><img src=menu.png width="150" heigth="100"></A>
+		<th><A href="Historia.html"><img src=historia.png width="150" heigth="100"></A>
+		<th><A href="Producto.html"><img src=productos.png width="150" heigth="100"></A>
+		<th><A href="Contacto.html"><img src=contacto.png width="150" heigth="100"></A>
+		<th><A href="Video.html"><img src=video.png width="150" heigth="100"></A>
+	</tr>
+</table>
+<br>
+<br>
+<center>
+<A href="OXXO.html">
+	<img src=logo.png width="250" heigth="100">
+</A>
+	<p>
+		&copy:2022. Derechos reservados
+		<br>
+		Desarrollo por:Muñoz Magaña Garardo<br>
+		Matricula:01916924<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana
+	</p>
+</center>
+	</body>
+</html>

@@ -1,0 +1,82 @@
+<html> 
+<head>
+<title>OXXO</title>
+<link rel="shorcut icon" href="logo2.png">
+<link rel="stylesheet" href="estilo.css">
+
+</head>
+<body>
+<a href="OXXO.html">
+	<img src=logo.png width="250" heigth="200">
+</a>
+<center>
+<div class="div1">
+	<h1>
+Contactanos
+	</h1>
+</div>
+</center>
+<hr>
+<form>
+	<table class="contac">
+		<tr >
+			<td>
+			<label> Nombre: </label>
+				<input type="text" size="50" name="nombre" id="nombre"> </input>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<label> Asunto: </label>
+				<input type="text" size="50" name="asunto" id="asunto"> </input>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<label> Correo: </label>
+				<input type="text" size="50" name="correo" id="correo"> </input>
+			</td>
+		</tr>
+			<td>
+			<label> Mensaje: </label>
+					<textarea rows="10" cols="30" name="mensaje" id="mensaje">
+				</textarea>
+			</td>
+		</tr>
+		<tr>
+			<td align="left">
+				<input type="submit" value="Enviar">
+				<input type="reset">
+			</td>
+		</tr>
+	</table>
+</form>
+<br>
+<br>
+<br>
+<table class="sin">
+	<tr>
+		<th><A href="OXXO.html"><img src=menu.png width="150" heigth="100"></A>
+		<th><A href="Historia.html"><img src=historia.png width="150" heigth="100"></A>
+		<th><A href="Producto.html"><img src=productos.png width="150" heigth="100"></A>
+		<th><A href="Contacto.html"><img src=contacto.png width="150" heigth="100"></A>
+		<th><A href="Video.html"><img src=video.png width="150" heigth="100"></A>
+	</tr>
+</table>
+<br>
+<br>
+<center>
+<A href="OXXO.html">
+<img src=logo.png width="250" heigth="100">
+</A>
+	<p>
+		&copy:2022. Derechos reservados
+		<br>
+		Desarrollo por:Muñoz Magaña Garardo<br>
+		Matricula:01916924<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana
+	</p>
+</center>
+</body>
+</html>-
